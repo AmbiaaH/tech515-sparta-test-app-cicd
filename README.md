@@ -6,3 +6,4 @@
 
 check webhook works on main branch
 check webhook works on dev branch
+test for auto merge from dev to main
